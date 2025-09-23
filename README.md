@@ -4,6 +4,11 @@
 [![Version](https://img.shields.io/badge/Version-1.0.0-green.svg)](package.json)
 [![Monad](https://img.shields.io/badge/Blockchain-Monad-purple.svg)](https://monad.xyz)
 
+<div align="center">
+<img src="show/dashboard.png" width="45%" style="display: inline-block; margin: 0 10px;">
+<img src="show/home.png" width="45%" style="display: inline-block; margin: 0 10px;">
+</div>
+
 > **🚀 Advanced quantitative trading infrastructure with AI-powered strategy optimization, MEV protection, and cross-chain routing capabilities for professional trading teams.**
 
 ## 🌟 Project Highlights
